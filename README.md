@@ -7,7 +7,7 @@
 
 This app lets you view a list of github users.
 
-You can visit the online version of this site by clicking <a href=https://challenge-14-kanban-board.onrender.com>this</a> link!
+
 
 ## Table of Contents
 
@@ -17,8 +17,7 @@ You can visit the online version of this site by clicking <a href=https://challe
 - [Code Snippet](#code-snippet)
 - [License](#license)
 - [Technologies](#technologies-used)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
+
 
 ## Required Technologies
 
@@ -60,10 +59,4 @@ Licensed under the MIT license.
 <li>Coding bootcamp staff (for their help with Coding)</li>
 <ul>
 
-## Contact Me
 
-<ul>
-<li>My email: joshuapruitt6484@gmail.com</li>
-<li><a href=https://github.com/JoshuaPruitt>My GitHub</a></li>
-<li><a href=https://www.linkedin.com/in/joshua-pruitt-1a494a311>My LinkedIn</a></li>
-</ul>
