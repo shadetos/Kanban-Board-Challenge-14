@@ -14,7 +14,6 @@ This app lets you view a list of github users.
 - [Required-Technologies](#required-technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Snippet](#code-snippet)
 - [License](#license)
 - [Technologies](#technologies-used)
 
@@ -33,10 +32,6 @@ Next go to the .env.EXAMPLE file within the develop/server directiory and add a 
 
 ## Usage
 
-## Code Snippet
-
-```
-
 ```
 
 ## License
@@ -51,12 +46,5 @@ Licensed under the MIT license.
 <li>Visual Studio Code (for writing code).</li>
 <li>Mozila Web Docs and W3 Schools (for getting help with JavaScript).</li>
 </ul>
-
-## Credits
-
-<ul>
-<li>Joshua Pruitt (me)</li>
-<li>Coding bootcamp staff (for their help with Coding)</li>
-<ul>
 
 
